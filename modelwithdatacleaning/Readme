@@ -1,0 +1,8 @@
+Model with data cleaning.  Performs better than model without data cleaning.  
+
+1. Run SelfDrivingSimulationModelTrainingwithImageManipulation
+   A.  You will need to change the directory where you have stored images and where you want to save the model
+2. Run SelfDrivingPredictwithImageManipulation
+   A.  You will need to change the directory where you have stored images and where you have saved the model, as well as where to save videos
+3. If you don't have access to a computer with a GPU, you can use my trained model and skip step 1.
+   
