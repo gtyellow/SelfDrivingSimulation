@@ -1,3 +1,10 @@
-This folder holds all the images for training, prediction, as well as the steering wheel image.  You will need to download all these
+This folder holds the image of the steering wheel image.  You will need to download all these
+You can download the road images from my google drive.  You will need both of these zip files:
+
+https://drive.google.com/file/d/164GsU5VdUppaJOVtNYZrSf11CjZH5f_H/view?usp=sharing
+https://drive.google.com/file/d/1Qj2okDPhh32g1HfCRVI0PRMj4-bXeHU1/view?usp=sharing
+
 1.  Use 0to57999 for training
 2.  Use 0to58000 and steering wheel image for prediction
+
+
